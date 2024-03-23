@@ -1,0 +1,15 @@
+.container {
+    height: 50px;
+    background-color: #0866ff;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.button-title {
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
